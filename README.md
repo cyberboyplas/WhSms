@@ -5,5 +5,6 @@ Enviar sms de forma anónima, con texto personalizado
 2. git clone https://github.com/WhBeatZ/WhSms.git
 3. pkg install python
 4. cd WhSms
+5.chmod +x *
 5. python WhSms.py
-6. Disfrutar :)
+6. Y disfrutar Disfrutar :)

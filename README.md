@@ -6,5 +6,5 @@ Enviar sms de forma anónima, con texto personalizado
 3. pkg install python
 4. cd WhSms
 5.chmod +x *
-5. python WhSms.py
+5. python3 WhSms.py
 6. Y disfrutar Disfrutar :)

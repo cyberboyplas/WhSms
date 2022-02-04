@@ -18,4 +18,4 @@ Enviar sms de forma anónima, con texto personalizado
 
 Y disfrutar Disfrutar :)
 
-<img src= "/files/imagen1" >
+<img src= "/files/imagen1.png" >

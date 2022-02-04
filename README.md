@@ -8,12 +8,12 @@ Enviar sms de forma anónima, con texto personalizado
 
 `git clone https://github.com/WhBeatZ/WhSms.git`
 
-`pkg install python`
+`pkg install bash`
 
 `cd WhSms`
 
 `chmod +x *`
 
-`python3 WhSms.py`
+`bash whsms.sh`
 
 Y disfrutar Disfrutar :)

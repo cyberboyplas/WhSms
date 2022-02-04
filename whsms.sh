@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#Programado por WhBeatZ
+#Todos los derechos reservados ®
+#No me hago responsable del mal uso que le puedan dar a esta herramienta
 
 #colores :D
 

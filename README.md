@@ -22,4 +22,4 @@ Y disfrutar Disfrutar :)
 
  resultado --> 
  
- <img src="/files/imagen2.png" height="200px">
+ <img src="/files/imagen2.jpg" height="200px">

@@ -1,8 +1,8 @@
-# WhSms
+# - WhSms -
 
 Enviar sms de forma anónima, con texto personalizado
 
-# Instalación
+# - Instalación -
 
 `pkg install git` 
 

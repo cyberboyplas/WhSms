@@ -1,8 +1,8 @@
 # - WhSms -
 
-Enviar sms de forma anónima, con texto personalizado
+Send SMS anonymously, with personalized text.
 
-# - Instalación -
+# - Installation -
 
 `pkg install git` 
 
@@ -16,10 +16,10 @@ Enviar sms de forma anónima, con texto personalizado
 
 `bash whsms.sh`
 
-Y disfrutar Disfrutar :)
+And Enjoy :)
 
 <img src="/files/imagen1.png" height="200px">
 
- resultado --> 
+ result --> 
  
  <img src="/files/imagen2.jpg" height="200px">

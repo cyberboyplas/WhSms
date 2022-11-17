@@ -32,7 +32,7 @@ echo -e "$lila ---------------------------------------------"
 menuprincipal() {
 echo
 echo -e "$rojo------------------------------------------------------------------------------"
-echo -e "$amarillo-$blanco Escribe el numero al que quieras enviar el sms, $lila($verde Ejemplo: +5213342510790$lila )"
+echo -e "$amarillo-$blanco Escribe el numero al que quieras enviar el sms, $lila($verde Ejemplo: +989194463231$lila )"
 echo -e "$rojo------------------------------------------------------------------------------"
 echo
 

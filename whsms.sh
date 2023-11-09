@@ -1,5 +1,5 @@
 #!/bin/bash
-#Programado por WhBeatZ
+#Programado por cyberbpyplas
 #Todos los derechos reservados ®
 #No me hago responsable del mal uso que le puedan dar a esta herramienta
 
@@ -24,7 +24,7 @@ echo -e "$blanco     \ \/  \/ / | '_ \ \___ \| '_   _ \/ __|"
 echo -e "$verde      \  /\  /  | | | |____) | | | | | \__ \ "
 echo -e "$cyan       \/  \/   |_| |_|_____/|_| |_| |_|___/"
 echo
-echo -e "$amarillo     Programado por$blanco WhBeatZ$amarillo  Insta:$blanco WhBeatZ"
+echo -e "$amarillo     Programado por$blanco Cyberboyplas$amarillo  Insta:$blanco "
 echo -e "$lila ---------------------------------------------"
 }
 
@@ -40,7 +40,7 @@ echo -e -n "$amarillo--->$blanco "
 read numero
 echo
 echo -e "$rojo-----------------------------------------------------------------------------------"
-echo -e "$amarillo-$blanco Escribe el mensage, $lila($verde Ejemplo: Mi Insta WhBeatZ$lila )"
+echo -e "$amarillo-$blanco Escribe el mensage, $lila($verde Ejemplo: Mi Insta $lila )"
 echo -e "$rojo-----------------------------------------------------------------------------------"
 echo
 echo -e -n "$amarillo--->$blanco "
